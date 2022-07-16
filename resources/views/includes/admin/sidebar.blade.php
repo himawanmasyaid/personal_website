@@ -20,7 +20,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="{{ route('dashboard') }}">
+        <a class="nav-link" href="{{ route('works.index') }}">
             <i class="fas fa-fw fa-hotel"></i>
             <span>Work</span></a>
     </li>
